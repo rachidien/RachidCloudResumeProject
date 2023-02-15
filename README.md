@@ -30,6 +30,6 @@ sudo gsutil cp -r gs://rachidtata/My-Resume-cloud-project/mystyle.css .
 6 - Re-Test of the webserver using external IP of the VM (access via a browser). (You can remove the files and the bucket).
 
 
-
+P.S : The included Video explains in details the different steps.
 
 
